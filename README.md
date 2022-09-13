@@ -1,6 +1,6 @@
 # Caroline Veloso 
 
-## :star: *An aspiring Software Developer* :star:
+## :star: *An Software Developer* :star:
 
 I'm 21 years old and originally from the south of Brazil. After finishing high school in 2018, I came to London looking for better opportunities and started my work experience in hospitality, where I learned and honed my social skills.
 
