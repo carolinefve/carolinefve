@@ -7,7 +7,7 @@
   </div>
   
  
-
+  </br>
      
    - 💻 I recently graduated from a software-engineering programme at [futureproof](https://cohorts.getfutureproof.co.uk/bhatia/carolineveloso)
   
@@ -16,8 +16,8 @@
    - 🔭 I'm currently working on a halloween edition weather app using HTML, CSS and JavaScript.
   
    - 💬 Ask me about databases and APIs.
-  
-
+   
+  </br>
 
   
  
