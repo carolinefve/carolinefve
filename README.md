@@ -13,7 +13,7 @@
   
    - 🌱 I'm currently learning Python, Flask and Django.
   
-   - 🔭 I'm currently working on a halloween edition weather app using HTML, CSS and JavaScript.
+   - 🔭 I'm currently working on my portfolio and a full-stack adoption app.
   
    - 💬 Ask me about databases and APIs.
    
