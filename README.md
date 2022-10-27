@@ -17,7 +17,7 @@
   
    - ❓ Ask me about databases and APIs.
    
-   - 👻 Check out my portfolio [crlnvls.github.io/](https://crlnvls.github.io/)
+   - 👻 Check out my portfolio [crlnvls.github.io](https://crlnvls.github.io/)
    
   </br>
 
