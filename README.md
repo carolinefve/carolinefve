@@ -14,8 +14,6 @@
    - 🌱 I'm currently learning Python, Flask and Django.
   
    - 🔭 I'm currently working on a full-stack adoption app.
-  
-   - ❓ Ask me about databases and APIs.
    
    - 👻 Check out my portfolio [crlnvls.github.io](https://crlnvls.github.io/)
    
