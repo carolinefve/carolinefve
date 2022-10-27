@@ -15,7 +15,9 @@
   
    - 🔭 I'm currently working on my portfolio and a full-stack adoption app.
   
-   - 💬 Ask me about databases and APIs.
+   - ❓ Ask me about databases and APIs.
+   
+   - 👻 Check out my portfolio [https://crlnvls.github.io/](https://crlnvls.github.io/)
    
   </br>
 
