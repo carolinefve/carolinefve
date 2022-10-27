@@ -9,11 +9,11 @@
  
   </br>
      
-   - 💻 I recently graduated from a software-engineering programme at [futureproof](https://cohorts.getfutureproof.co.uk/bhatia/carolineveloso)
+   - 💻 I graduated from a software-engineering programme at [futureproof](https://cohorts.getfutureproof.co.uk/bhatia/carolineveloso)
   
    - 🌱 I'm currently learning Python, Flask and Django.
   
-   - 🔭 I'm currently working on my portfolio and a full-stack adoption app.
+   - 🔭 I'm currently working on a full-stack adoption app.
   
    - ❓ Ask me about databases and APIs.
    
