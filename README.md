@@ -13,7 +13,7 @@
   
    - 🌱 I'm currently learning Python, Flask and Django.
   
-   - 🔭 I'm currently working on a full-stack adoption app.
+   - 🔭 I'm currently working on a full-stack pet adoption app.
    
    - 👻 Check out my portfolio [crlnvls.github.io](https://crlnvls.github.io/)
    
