@@ -11,7 +11,7 @@
      
    - 💻 I graduated from a software-engineering programme at [futureproof](https://cohorts.getfutureproof.co.uk/bhatia/carolineveloso)
   
-   - 🌱 I'm currently learning Python, Flask and Django.
+   - 🌱 I'm currently improving my coding skills in Python, Flask and Django.
   
    - 🔭 I'm currently working on a full-stack pet adoption app.
    
