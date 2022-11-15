@@ -9,7 +9,7 @@
  
   </br>
      
-   - 💻 I graduated from a software-engineering programme at [futureproof](https://cohorts.getfutureproof.co.uk/bhatia/carolineveloso)
+   - 💻 I graduated from a software engineering programme at [futureproof](https://cohorts.getfutureproof.co.uk/bhatia/carolineveloso)
   
    - 🌱 I'm currently learning .NET and C#
   
