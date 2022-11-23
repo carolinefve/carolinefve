@@ -43,9 +43,9 @@
   
  
   
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crlnvls&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crlnvls&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical) -->
+![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical)
 
 
 
