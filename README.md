@@ -47,6 +47,7 @@
 
 ![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=crlnvls&theme=radical)](https://git.io/streak-stats)
 
 
 
