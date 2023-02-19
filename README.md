@@ -11,7 +11,7 @@
      
    - 💻 I graduated from a software development programme at [futureproof](https://cohorts.getfutureproof.co.uk/bhatia/carolineveloso)
   
-   - 🌱 I'm currently learning .NET and C#
+   - 🌱 I'm currently learning Java and Cloud Computing
   
    - 🔭 I'm currently working on a full-stack pet adoption app
    
