@@ -56,14 +56,19 @@
 
   
  
-  
+<!--   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crlnvls&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=crlnvls&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=crlnvls&theme=radical)](https://git.io/streak-stats) -->
 
-
+<a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical" />
+</a>
+<a href="https://streak-stats.demolab.com?user=crlnvls&theme=radical">
+  <img align="center" src="https://streak-stats.demolab.com?user=crlnvls&theme=radical" />
+</a>
 
 
 
