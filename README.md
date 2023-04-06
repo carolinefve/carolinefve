@@ -27,7 +27,8 @@
 </div>
 </div>
  
-  
+</br>
+
  <div align="center"> 
   <h2>SKILL SET</h2>
 </div>
@@ -53,7 +54,8 @@
 
 </div>
 
-
+</br>
+</br>
   
  
 <!--   
