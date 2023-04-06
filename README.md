@@ -14,19 +14,19 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a> 
    </div>
+   
+   </br>
   
  
-  </br>
-     
-   - 💻 I graduated from a software development programme at [futureproof](https://cohorts.getfutureproof.co.uk/bhatia/carolineveloso)
-  
-   - 🌱 I'm currently learning Java and Cloud Computing
-  
-   - 🔭 I'm currently working on a full-stack pet adoption app
-   
-   - 👻 Check out my portfolio <a href="https://crlnvls.github.io/" target="_blank">crlnvls.github.io</a>
-   
-  </br>
+<div align="center">
+✨ As a Software Developer, I am constantly seeking to expand my knowledge and skills in the field. While I completed an immersive software engineering program that provided a solid foundation in technology fundamentals and full-stack development, I have also pursued self-directed learning to further enhance my abilities.
+
+</br>
+</br>
+✨ As a passionate learner, I am always looking for new challenges and opportunities to grow. Currently, I am interested in expanding my knowledge in Java and cloud computing, and I am excited to see what the future holds in this ever-evolving field.
+</div>
+</div>
+ 
   
  <div align="center"> 
   <h2>SKILL SET</h2>
