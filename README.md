@@ -13,6 +13,9 @@
    <a href="https://www.instagram.com/code_carol/?igshid=YmMyMTA2M2Y%3D" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a> 
+   <a href="https://www.buymeacoffee.com/widget/page/codecarol?compact=true&hide_recents=true" target="_blank">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+   </a> 
    </div>
    
    </br>
