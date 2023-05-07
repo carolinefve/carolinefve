@@ -13,7 +13,10 @@
    <a href="https://www.instagram.com/code_carol/?igshid=YmMyMTA2M2Y%3D" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a> 
-   <a href="https://www.buymeacoffee.com/codecarol" target="_blank">
+   <a href="https://twitter.com/code_carol" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+   </a> 
+  <a href="https://www.buymeacoffee.com/codecarol" target="_blank">
       <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
    </a> 
    </div>
