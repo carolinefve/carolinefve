@@ -19,17 +19,17 @@
    </div>
    
    </br>
-  
- 
-<div align="center">
-✨ As a Software Developer, I am constantly seeking to expand my knowledge and skills in the field. While I completed an immersive software engineering program that provided a solid foundation in technology fundamentals and full-stack development, I have also pursued self-directed learning to further enhance my abilities.
+   
+   
 
-</br>
-</br>
-✨ As a passionate learner, I am always looking for new challenges and opportunities to grow. Currently, I am interested in expanding my knowledge in Java and cloud computing, and I am excited to see what the future holds in this ever-evolving field.
+<a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical" width=400/>
+</a>
 </div>
-</div>
- 
+<a href="https://streak-stats.demolab.com?user=crlnvls&theme=radical">
+  <img align="center" src="https://streak-stats.demolab.com?user=crlnvls&theme=radical" width=420/>
+</a>
+   
 </br>
 
  <div align="center"> 
@@ -68,14 +68,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=crlnvls&theme=radical)](https://git.io/streak-stats) -->
 
-
-<a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical" width=400/>
-</a>
-</div>
-<a href="https://streak-stats.demolab.com?user=crlnvls&theme=radical">
-  <img align="center" src="https://streak-stats.demolab.com?user=crlnvls&theme=radical" width=420/>
-</a>
 
 
 
