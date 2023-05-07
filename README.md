@@ -21,14 +21,15 @@
    </br>
    
    
-
+ <div align="center"> 
 <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical" width=400/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical" width=420/>
 </a>
 <a href="https://streak-stats.demolab.com?user=crlnvls&theme=radical">
-  <img align="center" src="https://streak-stats.demolab.com?user=crlnvls&theme=radical" width=420/>
+  <img align="center" src="https://streak-stats.demolab.com?user=crlnvls&theme=radical" width=440/>
 </a>
-   
+ </div>
+ 
 </br>
 
  <div align="center"> 
