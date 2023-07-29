@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World,+I'm+Caroline+👻++++++++++)](https://git.io/typing-svg)
 
  <div align="center"> 
-  <a href = "mailto: cveloso0808@gmail.com" target="_blank">
+<!--   <a href = "mailto: cveloso0808@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
    <a href="https://crlnvls.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/-my_Portfolio-E4B1AB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank">
-   </a>
+   </a> -->
   <a href="https://www.linkedin.com/in/crlnvls/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
