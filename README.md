@@ -1,12 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World,+I'm+Caroline+👻++++++++++)](https://git.io/typing-svg)
 
  <div align="center"> 
-<!--   <a href = "mailto: cveloso0808@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-   <a href="https://crlnvls.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/-my_Portfolio-E4B1AB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank">
-   </a> -->
   <a href="https://www.linkedin.com/in/crlnvls/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
@@ -20,17 +14,14 @@
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
    </a> 
     <a href="https://www.youtube.com/channel/UC23SaW9uJhwkl6z4bxbYZfw" target="_blank">
-      <img src=" https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
    </a> 
    <a href="https://codecarol.hashnode.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
    </a> 
-     <a href="https://ko-fi.com/code_carol/" target="_blank">
-      <img src=" https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+    <a href="https://ko-fi.com/code_carol/" target="_blank">
+      <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
    </a>
-<!--   <a href="https://www.buymeacoffee.com/codecarol" target="_blank">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-   </a>  -->
    </div>
    
    </br>
@@ -69,8 +60,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
 
 </div>
 
