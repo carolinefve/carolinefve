@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
    </a> 
    
-   <a href="https://www.youtube.com/channel/UC23SaW9uJhwkl6z4bxbYZfw" target="_blank">
+   <a href="https://www.youtube.com/@code_carol" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
    </a> 
    
