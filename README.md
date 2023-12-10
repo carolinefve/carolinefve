@@ -4,22 +4,28 @@
   <a href="https://www.linkedin.com/in/crlnvls/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a> 
+  
    <a href="https://www.instagram.com/code_carol/?igshid=YmMyMTA2M2Y%3D" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a> 
+   
    <a href="https://twitter.com/code_carol" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a> 
-    <a href="https://www.tiktok.com/@code_carol" target="_blank">
+   
+   <a href="https://www.tiktok.com/@code_carol" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
    </a> 
-    <a href="https://www.youtube.com/channel/UC23SaW9uJhwkl6z4bxbYZfw" target="_blank">
+   
+   <a href="https://www.youtube.com/channel/UC23SaW9uJhwkl6z4bxbYZfw" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
    </a> 
+   
    <a href="https://codecarol.hashnode.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
    </a> 
-    <a href="https://ko-fi.com/code_carol/" target="_blank">
+   
+   <a href="https://ko-fi.com/code_carol/" target="_blank">
       <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
    </a>
    </div>
