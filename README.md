@@ -16,18 +16,18 @@
    <a href="https://twitter.com/code_carol" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a> 
-  <a href="https://www.buymeacoffee.com/codecarol" target="_blank">
+<!--   <a href="https://www.buymeacoffee.com/codecarol" target="_blank">
       <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-   </a> 
+   </a>  -->
    </div>
    
    </br>
    
    
  <div align="center"> 
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
+<a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical" width=410/>
-</a> -->
+</a>
 <a href="https://streak-stats.demolab.com?user=crlnvls&theme=radical">
   <img align="center" src="https://streak-stats.demolab.com?user=crlnvls&theme=radical" width=420/>
 </a>
