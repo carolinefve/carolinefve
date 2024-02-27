@@ -10,6 +10,7 @@
 </a>
  </div>
 
+ <!--  
  </br>
 
  <div align="center"> 
@@ -40,7 +41,7 @@
    </div>
    
   
- <!--  
+
 </br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World,+I'm+Caroline+👻++++++++++)](https://git.io/typing-svg)
