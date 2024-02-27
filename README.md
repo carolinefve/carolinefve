@@ -5,6 +5,10 @@
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-carol&show_icons=true&count_private=true&theme=radical" width=410/>
 </a> -->
+
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical" width=360/>
+</a>
 <a href="https://streak-stats.demolab.com?user=crlnvls&theme=radical">
   <img align="center" src="https://streak-stats.demolab.com/?user=code-carol&theme=radical" width=420/>
 </a>
