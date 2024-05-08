@@ -1,7 +1,10 @@
+ <div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World)](https://git.io/typing-svg)
+
 ![Caroline Veloso](https://github.com/code-carol/code-carol/assets/88780435/fc905b23-4469-448a-9aa0-37e6f6dfb084)
 
 
- <div align="center"> 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-carol&show_icons=true&count_private=true&theme=radical" width=410/>
 </a> -->
@@ -48,7 +51,7 @@
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World,+I'm+Caroline+👻++++++++++)](https://git.io/typing-svg)
+
 
  <div align="center"> 
   <h2>SKILL SET</h2>
