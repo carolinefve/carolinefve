@@ -1,26 +1,6 @@
  <div align="center"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World+👻)](https://git.io/typing-svg)
-
-![Caroline Veloso](https://github.com/code-carol/code-carol/assets/88780435/fc905b23-4469-448a-9aa0-37e6f6dfb084)
-
-
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-carol&show_icons=true&count_private=true&theme=radical" width=410/>
-</a> -->
-
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical" width=355/>
-</a>
-<a href="https://streak-stats.demolab.com?user=crlnvls&theme=radical">
-  <img align="center" src="https://streak-stats.demolab.com/?user=code-carol&theme=radical" width=420/>
-</a>
- </div>
-
- <!--  
- </br>
-
- <div align="center"> 
   
    <a href="https://www.instagram.com/code_carol/?igshid=YmMyMTA2M2Y%3D" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -45,6 +25,28 @@
    <a href="https://ko-fi.com/code_carol/" target="_blank">
       <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
    </a>
+  
+
+![Caroline Veloso](https://github.com/code-carol/code-carol/assets/88780435/fc905b23-4469-448a-9aa0-37e6f6dfb084)
+
+
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-carol&show_icons=true&count_private=true&theme=radical" width=410/>
+</a> -->
+
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical" width=355/>
+</a>
+<a href="https://streak-stats.demolab.com?user=crlnvls&theme=radical">
+  <img align="center" src="https://streak-stats.demolab.com/?user=code-carol&theme=radical" width=420/>
+</a>
+ </div>
+
+ <!--  
+ </br>
+
+ <div align="center"> 
+  
    </div>
    
   
