@@ -26,13 +26,11 @@
    <a href="https://ko-fi.com/code_carol/" target="_blank">
       <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
    </a> -->
-  
-<!--
-![Caroline Veloso](https://github.com/code-carol/code-carol/assets/88780435/fc905b23-4469-448a-9aa0-37e6f6dfb084)
- -->
+ 
 
 
-![Caroline Veloso (2)](https://github.com/user-attachments/assets/283aa852-222d-4f5e-95a7-21f75a23eb8d)
+![Caroline Veloso (6)](https://github.com/user-attachments/assets/247ecb2d-45eb-4b7e-9f1b-e38e982dea42)
+
 
 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
