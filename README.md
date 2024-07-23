@@ -27,8 +27,11 @@
       <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
    </a> -->
   
-
+<!--
 ![Caroline Veloso](https://github.com/code-carol/code-carol/assets/88780435/fc905b23-4469-448a-9aa0-37e6f6dfb084)
+ -->
+
+![Caroline Veloso](https://github.com/user-attachments/assets/fcd62b12-a1fe-41cd-9199-bfb345257f44)
 
 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
