@@ -31,7 +31,8 @@
 ![Caroline Veloso](https://github.com/code-carol/code-carol/assets/88780435/fc905b23-4469-448a-9aa0-37e6f6dfb084)
  -->
 
-![Caroline Veloso](https://github.com/user-attachments/assets/fcd62b12-a1fe-41cd-9199-bfb345257f44)
+
+![Caroline Veloso (2)](https://github.com/user-attachments/assets/283aa852-222d-4f5e-95a7-21f75a23eb8d)
 
 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
