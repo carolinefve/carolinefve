@@ -29,7 +29,8 @@
  
 
 
-![Caroline Veloso (6)](https://github.com/user-attachments/assets/247ecb2d-45eb-4b7e-9f1b-e38e982dea42)
+![Caroline Veloso (7)](https://github.com/user-attachments/assets/15ed62e0-dedb-4180-861c-adda5df7557e)
+
 
 
 
