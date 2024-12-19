@@ -41,7 +41,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical" width=355/>
 </a>
-<a href="https://streak-stats.demolab.com?user=code-carol&theme=radical">
+<a href="https://streak-stats.demolab.com/?user=code-carol&theme=radical">
   <img align="center" src="https://streak-stats.demolab.com/?user=code-carol&theme=radical" width=420/>
 </a>
  </div>
