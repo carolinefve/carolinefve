@@ -40,7 +40,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical" width=320/>
 </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=code-carol&theme=radical" alt="GitHub Streak" align="center" width=440/></a>
+<a href="https://nirzak-streak-stats.vercel.app/?user=code-carol&theme=radical"><img src="https://nirzak-streak-stats.vercel.app/?user=code-carol&theme=radical" alt="GitHub Streak" align="center" width=440/></a>
  </div>
 
  <!--  
