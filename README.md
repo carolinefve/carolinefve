@@ -30,9 +30,8 @@
 
 
 
+<img width="1584" height="396" alt="Caroline Veloso (8)" src="https://github.com/user-attachments/assets/8e05d5b2-172a-4129-b3e6-90ee8d47f580" />
 
-
-<img width="1584" height="396" alt="Caroline Veloso (7)" src="https://github.com/user-attachments/assets/05311c44-8ede-487f-a0e2-0a88e1889c4f" />
 
 
 
