@@ -29,7 +29,9 @@
  
 
 
-![Caroline Veloso](https://github.com/user-attachments/assets/9d57c272-ed71-45d4-a2c2-675fa7fa39f4)
+<img width="1584" height="396" alt="Caroline Veloso (2)" src="https://github.com/user-attachments/assets/cf985dbf-4ffd-4d93-abf7-a8f8d5a9e27e" />
+
+
 
 
 
