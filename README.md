@@ -40,9 +40,9 @@
 </a> -->
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefve&layout=compact&theme=material-palenight" width=320/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefve&layout=compact&theme=material-palenight" width=330/>
 </a>
-<a href="https://nirzak-streak-stats.vercel.app/?user=code-carol&theme=radical"><img src="https://nirzak-streak-stats.vercel.app/?user=carolinefve&theme=material-palenight" alt="GitHub Streak" align="center" width=440/></a>
+<a href="https://nirzak-streak-stats.vercel.app/?user=code-carol&theme=radical"><img src="https://nirzak-streak-stats.vercel.app/?user=carolinefve&theme=material-palenight" alt="GitHub Streak" align="center" width=460/></a>
  </div>
 
  <!--  
