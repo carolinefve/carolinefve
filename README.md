@@ -43,10 +43,10 @@ width=480
 -->
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical" class="stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefve&layout=compact&theme=material-palenight" width=40% />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefve&layout=compact&theme=material-palenight" width=42% />
 </a>
 <a href="https://nirzak-streak-stats.vercel.app/?user=code-carol&theme=radical" class="streak">
- <img src="https://nirzak-streak-stats.vercel.app/?user=carolinefve&theme=material-palenight" alt="GitHub Streak" align="center" width=55%/></a>
+ <img src="https://nirzak-streak-stats.vercel.app/?user=carolinefve&theme=material-palenight" alt="GitHub Streak" align="center" width=57%/></a>
  </div>
 
 
