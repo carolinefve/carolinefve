@@ -30,20 +30,25 @@
 
 
 
-<img width="1584" height="396" alt="Caroline Veloso" src="https://github.com/user-attachments/assets/dd3753bf-938b-4f8a-918e-49ceac3a8576" />
+<img class="banner" width="1584" height="396" alt="Caroline Veloso" src="https://github.com/user-attachments/assets/dd3753bf-938b-4f8a-918e-49ceac3a8576" />
 
 
 
 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=crlnvls&show_icons=true&count_private=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-carol&show_icons=true&count_private=true&theme=radical" width=410/>
-</a> -->
+</a> 
+width=350
+width=480
+-->
 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefve&layout=compact&theme=material-palenight" width=350 />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-carol&layout=compact&theme=radical" class="stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefve&layout=compact&theme=material-palenight" width=35% />
 </a>
-<a href="https://nirzak-streak-stats.vercel.app/?user=code-carol&theme=radical"><img src="https://nirzak-streak-stats.vercel.app/?user=carolinefve&theme=material-palenight" alt="GitHub Streak" align="center" width=480/></a>
+<a href="https://nirzak-streak-stats.vercel.app/?user=code-carol&theme=radical" class="streak">
+ <img src="https://nirzak-streak-stats.vercel.app/?user=carolinefve&theme=material-palenight" alt="GitHub Streak" align="center" width=48%/></a>
  </div>
+
 
  <!--  
  </br>
