@@ -42,13 +42,14 @@ width=350
 width=480
 -->
 
+<!--
   <a href="https://github-readme-stats-svh6.vercel.app/api/top-langs/?theme=material-palenight&layout=compact&username=carolinefve" class="stats">
   <img align="center" src="https://github-readme-stats-svh6.vercel.app/api/top-langs/?theme=material-palenight&layout=compact&username=carolinefve" width=41% />
 </a>
 <a href="https://nirzak-streak-stats.vercel.app/?user=carolinefve&theme=material-palenight" class="streak">
  <img src="https://nirzak-streak-stats.vercel.app/?user=carolinefve&theme=material-palenight" alt="GitHub Streak" align="center" width=57%/></a>
  </div>
-
+-->
 
  <!--  
  </br>
